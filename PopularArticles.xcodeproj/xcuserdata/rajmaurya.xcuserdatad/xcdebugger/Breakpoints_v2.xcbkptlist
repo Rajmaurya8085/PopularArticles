@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "247BE1A0-A174-4803-9540-4C88C49F416C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6AFB63FC-B9B8-47D5-83FF-3AA654465CF0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PopularArticles/APIclient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "fetch(with:decode:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FCE666AB-03E6-4E13-9A73-C0F9514E9D15"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PopularArticles/APIclient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "dataTask(with:decodingType:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FCE666AB-03E6-4E13-9A73-C0F9514E9D15 - 45c2d3c4350fb611"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in PopularArticles):__C.NSURLSession.dataTask&lt;A where A: Swift.Decodable&gt;(with: Foundation.URLRequest, decodingType: A.Type, completionHandler: (Swift.Optional&lt;Swift.Decodable&gt;, Swift.Optional&lt;PopularArticles.APIError&gt;) -&gt; ()) -&gt; PopularArticles.URLSessionDataTaskProtocol"
+                  moduleName = "PopularArticles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rajmaurya/Desktop/pandey/Raj/PopularArticles/PopularArticles/APIclient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "217">
+               </Location>
+               <Location
+                  uuid = "FCE666AB-03E6-4E13-9A73-C0F9514E9D15 - 4d4b7c230f9ba9ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in (extension in PopularArticles):__C.NSURLSession.dataTask&lt;A where A: Swift.Decodable&gt;(with: Foundation.URLRequest, decodingType: A.Type, completionHandler: (Swift.Optional&lt;Swift.Decodable&gt;, Swift.Optional&lt;PopularArticles.APIError&gt;) -&gt; ()) -&gt; PopularArticles.URLSessionDataTaskProtocol"
+                  moduleName = "PopularArticles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rajmaurya/Desktop/pandey/Raj/PopularArticles/PopularArticles/APIclient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "171">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EA0011F6-2DF1-4CD3-A401-45A81C114F2F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PopularArticles/ApiManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "callNYArticalAPI(endPoint:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EA0011F6-2DF1-4CD3-A401-45A81C114F2F - bd4b88d6485d33cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (PopularArticles.Result&lt;PopularArticles.DataModel, PopularArticles.APIError&gt;) -&gt; () in PopularArticles.ListViewModel.callFlikerAPI(endPoint: PopularArticles.Endpoint) -&gt; ()"
+                  moduleName = "PopularArticles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rajmaurya/Desktop/pandey/Raj/PopularArticles/PopularArticles/ApiManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "202">
+               </Location>
+               <Location
+                  uuid = "EA0011F6-2DF1-4CD3-A401-45A81C114F2F - 2639306ace4aaac6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #2 (PopularArticles.Result&lt;PopularArticles.DataModel, PopularArticles.APIError&gt;) -&gt; () in PopularArticles.ListViewModel.callFlikerAPI(endPoint: PopularArticles.Endpoint) -&gt; ()"
+                  moduleName = "PopularArticles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rajmaurya/Desktop/pandey/Raj/PopularArticles/PopularArticles/ApiManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "118">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "36635D05-4846-4950-A85C-16A62F474F42"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PopularArticles/APIclient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "dataTask(with:decodingType:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DB29CC8D-9D50-47E2-882D-B1A337CEA93E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PopularArticles/APIclient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "dataTask(with:decodingType:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6E6B9AF9-A561-47F0-AA94-53F468208392"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PopularArticles/ApiManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "callNYArticalAPI(endPoint:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6E6B9AF9-A561-47F0-AA94-53F468208392 - e694f43e2598e6db"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PopularArticles.ListViewModel.callFlikerAPI(endPoint: PopularArticles.Endpoint) -&gt; ()"
+                  moduleName = "PopularArticles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rajmaurya/Desktop/pandey/Raj/PopularArticles/PopularArticles/ApiManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "54">
+               </Location>
+               <Location
+                  uuid = "6E6B9AF9-A561-47F0-AA94-53F468208392 - 811ae19faadde7be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Decodable) -&gt; Swift.Optional&lt;PopularArticles.DataModel&gt; in PopularArticles.ListViewModel.callFlikerAPI(endPoint: PopularArticles.Endpoint) -&gt; ()"
+                  moduleName = "PopularArticles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rajmaurya/Desktop/pandey/Raj/PopularArticles/PopularArticles/ApiManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "73">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C5805413-94E2-45BF-8533-A64DFC80D9F9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PopularArticles/APIclient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "dataTask(with:decodingType:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
