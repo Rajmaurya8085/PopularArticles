@@ -1,39 +1,23 @@
-Popular Articles
-
-Popular Artical is Projetc that Fetch most recent popular Artical and Shopw on in ios App!
+Popular Artical 
+ 
+This project  fetch most recent Artical and show on ios App!
 
 Getting Started
 
+To start using this app you need to download source code from git gub URL or take clone from github and build  xcode to your iphone or simulators 
 
 Prerequisites
-What things you need to install the software and how to install them
+xcode 11.2 , 
 
-Give examples
-Installing
-A step by step series of examples that tell you how to get a development env running
+Versioning
+We use SemVer for versioning. For the versions available, see the tags on this repository.
 
-Say what the step will be
+Authors
+Raj Maurya 
+License
+This project is licensed under the MIT License - see the LICENSE.md file for details
 
-Give the example
-And repeat
-
-until finished
-End with an example of getting some data out of the system or using it for a little demo
-
-Running the tests
-Explain how to run the automated tests for this system
-
-Break down into end to end tests
-Explain what these tests test and why
-
-Give an example
-And coding style tests
-Explain what these tests test and why
-
-Give an example
-Deployment
-Add additional notes about how to deploy this on a live system
-
-Built With
-Dropwizard - The web framework used
-Maven - Dependency Managemen
+Acknowledgments
+Hat tip to anyone whose code was used
+Inspiration
+etc
